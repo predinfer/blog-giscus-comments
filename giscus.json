@@ -1,4 +1,4 @@
 {
-  "origins": ["https://www.predinfer.com","https://blog-giscus-comments--predinfer.netlify.app/"],
+  "origins": ["https://www.predinfer.com","https://blog-giscus-comments--predinfer.netlify.app"],
   "originsRegex": ["http://localhost:[0-9]+"]
 }
