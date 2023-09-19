@@ -1,5 +1,4 @@
 {
-  "origins": [
-    "https://www.predinfer.com"
-  ]
+  "origins": ["https://www.predinfer.com"],
+  "originsRegex": ["http://localhost:[0-9]+"]
 }
